@@ -1,0 +1,4 @@
+# Logfile created on 2014-04-09 19:38:21 -0700 by logger.rb/44203
+I, [2014-04-09T19:38:21.946179 #42207]  INFO -- : 0:  gosu (0.7.50) from /Users/brookr/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/gosu-0.7.50.gemspec
+I, [2014-04-09T19:38:21.946627 #42207]  INFO -- : 0:  rrobots (0.0.1) from /Users/brookr/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/rrobots-0.0.1.gemspec
+I, [2014-04-09T19:38:21.946914 #42207]  INFO -- : 0:  bundler (1.5.1) from /Users/brookr/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/bundler-1.5.1.gemspec
